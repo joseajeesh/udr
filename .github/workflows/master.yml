@@ -99,7 +99,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-    env:
+    
       REGISTRY: docker.io
       DOCKER_REGISTRY: bond00701011990722/
     steps:
